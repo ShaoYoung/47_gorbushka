@@ -223,7 +223,6 @@ def start(bot, message):
     #
     #
     try:
-
         tokens.send_answer(bot, Tokens)
 
 

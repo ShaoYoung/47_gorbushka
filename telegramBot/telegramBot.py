@@ -21,7 +21,6 @@ import core_config as cf
 import offer
 
 if __name__ == "__main__":
-
     config = cf.configuration()
 
     #

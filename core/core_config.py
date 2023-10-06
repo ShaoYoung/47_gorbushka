@@ -2,6 +2,7 @@
 from os.path import join, dirname
 import configparser as cf
 
+
 #
 # Configuration -  Установка конфигурационных параметров
 #

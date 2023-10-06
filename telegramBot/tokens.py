@@ -299,7 +299,6 @@ def update_answer(Tokens, update_text=None, update_parse_mode=None, add_menu=Non
 #
 #
 #
-#
 
 #
 # Send Answer - отправка подготовленного сообщения
